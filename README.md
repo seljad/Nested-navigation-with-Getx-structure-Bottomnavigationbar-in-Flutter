@@ -1,16 +1,21 @@
-# nested_navigation_with_getx_and_bottomnavigationbar
+### Created By Sajjad Javadi
+Email: SajjadJavadi28@gmail.com
 
-A new Flutter project.
+## Show some :heart: and star the repo to support the project
+
+# Flutter nested navigation
+In this project I use [Getx](https://pub.dev/packages/get), [Getx_pattern](https://github.com/kauemurakami/getx_pattern) for structure of project.
+This example learn you how to:
+- Setup getx in main.dart
+- Initializes structure of getx pattern
+- Create bottom navigation bar
+- Nested navigation along with bottom navigation bar
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For help getting started with Flutter, view Flutter [documentation](https://flutter.dev/).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone the repository `git@github.com:seljad/Nested-navigation-with-Getx-and-Bottomnavigationbar-in-Flutter.git`
+- Navigate to cloned folder
+- Get packages using `flutter pub get`
+- Run `flutter run`
