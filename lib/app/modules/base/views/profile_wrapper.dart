@@ -9,7 +9,7 @@ import '../../profile/views/profile_view.dart';
 import '../../setting/bindings/setting_binding.dart';
 
 class ProfileWrapper extends StatelessWidget {
-  const ProfileWrapper({Key? key}) : super(key: key);
+  const ProfileWrapper({super.key});
 
   @override
   Widget build(BuildContext context) {
